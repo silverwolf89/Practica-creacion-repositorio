@@ -4,3 +4,5 @@
 
 para poder usarlo debemos hacer lo siguiente:
 ```npm install react```
+
+sistema de archivos 2.
